@@ -22,6 +22,22 @@
         <maven.compiler.target>1.8</maven.compiler.target>  
     </properties>
 
+    <plugins>
+   
+         <plugin>
+              <groupId>org.sonarsource.scanner.maven</groupId>
+              <artifactId>sonar-maven-plugin</artifactId>
+              <version>3.9.0.2155</version>
+        </plugin>
+    
+   </plugins>
+	<properties>
+             <sonar.host.url>http://13.115.9.92:9000</sonar.host.url>
+             <sonar.login>e76b442a356e36885ac02af8a345bf7031af783e</sonar.login>
+        </properties>
+
+
+
     <dependencies>
         <dependency>
             <groupId>org.springframework</groupId>
