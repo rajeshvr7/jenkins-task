@@ -19,9 +19,7 @@
         <junit.version>4.10</junit.version>
         <logback.version>1.1.3</logback.version>
         <maven.compiler.source>1.8</maven.compiler.source>
-        <maven.compiler.target>1.8</maven.compiler.target>
-	<sonar.host.url>http://13.115.9.92:9000/</sonar.host.url>
-	<sonar.login>e76b442a356e36885ac02af8a345bf7031af783e</sonar.login>   
+        <maven.compiler.target>1.8</maven.compiler.target>  
     </properties>
 
     <dependencies>
