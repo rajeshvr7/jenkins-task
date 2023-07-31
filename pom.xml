@@ -161,9 +161,10 @@
 		</plugin>
         </plugins>
     </build>
-	<repositories>
+  <repositories>
     <repository>
-      <id>varun-snapshots</id>
+      <id>nexus</id>
+      <name>varun-snapshots</name>
       <url>http://43.207.174.40:8081/repository/varun-snapshots/</url>
     </repository>
   </repositories>
