@@ -163,8 +163,8 @@
     </build>
 	<repositories>
     <repository>
-      <id>varun-snapshot</id>
-      <url>http://43.207.174.40:8081/repository/varun-snapshot/</url>
+      <id>varun-snapshots</id>
+      <url>http://43.207.174.40:8081/repository/varun-snapshots/</url>
     </repository>
   </repositories>
 </project>
