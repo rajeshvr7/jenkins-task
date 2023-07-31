@@ -163,8 +163,8 @@
     </build>
 	<repositories>
     <repository>
-      <id>${NEXUS-GRP-REPO}</id>
-      <url>http://${NEXUSIP}:${NEXUSPORT}/repository/${NEXUS-GRP-REPO}/</url>
+      <id>nexus</id>
+      <url>http://43.207.174.40:8081/repository/varun-snapshot/</url>
     </repository>
   </repositories>
 </project>
