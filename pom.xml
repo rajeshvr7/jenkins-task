@@ -163,7 +163,7 @@
     </build>
 	<repositories>
     <repository>
-      <id>nexus</id>
+      <id>varun-snapshot</id>
       <url>http://43.207.174.40:8081/repository/varun-snapshot/</url>
     </repository>
   </repositories>
